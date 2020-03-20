@@ -19,7 +19,3 @@
   display: flex;
   flex-direction: column;
 }
-
-#etchasketch .square {
-  background-color: lightgrey;
-}
